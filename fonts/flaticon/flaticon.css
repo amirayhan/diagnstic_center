@@ -1,0 +1,60 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 24/09/2019 06:44
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("Flaticon.eot");
+  src: url("Flaticond41d.eot?#iefix") format("embedded-opentype"),
+       url("Flaticon.woff2") format("woff2"),
+       url("Flaticon.woff") format("woff"),
+       url("Flaticon.ttf") format("truetype"),
+       url("Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+font-style: normal;
+}
+
+.flaticon-urine-analysis:before { content: "\f100"; }
+.flaticon-healthcare-and-medical:before { content: "\f101"; }
+.flaticon-blood-bag:before { content: "\f102"; }
+.flaticon-healthcare-and-medical-1:before { content: "\f103"; }
+.flaticon-platelet:before { content: "\f104"; }
+.flaticon-healthcare-and-medical-2:before { content: "\f105"; }
+.flaticon-healthcare-and-medical-3:before { content: "\f106"; }
+.flaticon-ct-scan:before { content: "\f107"; }
+.flaticon-heart-arrest:before { content: "\f108"; }
+.flaticon-healthcare-and-medical-4:before { content: "\f109"; }
+.flaticon-healthcare-and-medical-5:before { content: "\f10a"; }
+.flaticon-healthcare-and-medical-6:before { content: "\f10b"; }
+.flaticon-healthcare-and-medical-7:before { content: "\f10c"; }
+.flaticon-healthcare-and-medical-8:before { content: "\f10d"; }
+.flaticon-healthcare-and-medical-9:before { content: "\f10e"; }
+.flaticon-medicine-cabinet:before { content: "\f10f"; }
+.flaticon-healthcare-and-medical-10:before { content: "\f110"; }
+.flaticon-healthcare-and-medical-11:before { content: "\f111"; }
+.flaticon-healthcare-and-medical-12:before { content: "\f112"; }
+.flaticon-healthcare-and-medical-13:before { content: "\f113"; }
+.flaticon-healthcare-and-medical-14:before { content: "\f114"; }
+.flaticon-medical-instrument:before { content: "\f115"; }
+.flaticon-medical-instrument-1:before { content: "\f116"; }
+.flaticon-healthcare-and-medical-15:before { content: "\f117"; }
+.flaticon-healthcare-and-medical-16:before { content: "\f118"; }
+.flaticon-healthcare-and-medical-17:before { content: "\f119"; }
+.flaticon-healthcare-and-medical-18:before { content: "\f11a"; }
+.flaticon-healthcare-and-medical-19:before { content: "\f11b"; }
+.flaticon-bathroom-scale:before { content: "\f11c"; }
+.flaticon-healthcare-and-medical-20:before { content: "\f11d"; }

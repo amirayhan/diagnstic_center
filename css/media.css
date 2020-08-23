@@ -1,0 +1,388 @@
+/* extra small device start */
+
+@media(max-width:575px) {
+    .main-header .header_top .h_t_content_left .htc_left_items {
+        display: none;
+    }
+
+    .navbar .navbar-toggler {
+        color: #232323;
+        font-size: 25px;
+        -webkit-transition: all linear .3s;
+        -moz-transition: all linear .3s;
+        -ms-transition: all linear .3s;
+        -o-transition: all linear .3s;
+        transition: all linear .3s;
+    }
+
+    .navbar .navbar-toggler:hover {
+        color: #0cb8b6;
+    }
+
+    .navbar-collapse {
+        text-align: center;
+    }
+
+    #banner .banner_slider .slider .slider_content h1 {
+        font-size: 32px;
+    }
+
+    #banner .banner_slider .slider .slider_content a {
+        margin-top: 35px !important;
+    }
+
+    #banner .slider_priv span {
+        display: none;
+    }
+
+    #banner .slider_next span {
+        display: none;
+    }
+
+    #banner .banner_slider .slider .slider_content {
+        padding: 90px 0 100px;
+    }
+
+    #about .about_left {
+        padding-bottom: 25px;
+    }
+
+    #about .about_right .about_right_bottom p {
+        display: none;
+    }
+
+    #we_care .we_care_video {
+        display: none;
+    }
+
+    #testimonial .testimonial_right p {
+        padding-bottom: 20px;
+    }
+
+    #testimonial .patient_content .patient img {
+        padding-bottom: 20px;
+    }
+
+    #doctors {
+        padding: 120px 0 125px;
+    }
+
+    #doctors .doctors_content .doctors_type .doctors_images .overlay_content {
+        bottom: -118px;
+    }
+
+    #news .blog_items .blog_content {
+        padding-left: 15px;
+        padding-bottom: 29px;
+    }
+
+    #news {
+        padding-bottom: 105px;
+    }
+
+    #news .blog_items {
+        margin-bottom: 25px;
+    }
+
+    #counter {
+        padding-bottom: 15px;
+    }
+
+    #counter .counter_items {
+        padding-bottom: 80px;
+    }
+
+    #counter .counter_items h1 {
+        font-size: 55px;
+    }
+
+    #apoinment form .input_items .form-control {
+        margin-bottom: 20px;
+    }
+
+    #trust {
+        padding-bottom: 60px;
+    }
+
+    #trust .trust_button {
+        float: none;
+        text-align: center;
+    }
+
+    #trust .trust_content {
+        text-align: center;
+    }
+
+    footer.sp {
+        padding-top: 83px;
+    }
+
+    footer .footer_top_items {
+        padding-top: 45px;
+    }
+
+}
+
+/* extra small device end */
+
+
+/* small device start */
+
+@media(min-width:576px) and (max-width:767px) {
+    .main-header .header_top .h_t_content_left .htc_left_items {
+        display: none;
+    }
+
+    .navbar .navbar-toggler {
+        color: #232323;
+        font-size: 25px;
+        -webkit-transition: all linear .3s;
+        -moz-transition: all linear .3s;
+        -ms-transition: all linear .3s;
+        -o-transition: all linear .3s;
+        transition: all linear .3s;
+    }
+
+    .navbar .navbar-toggler:hover {
+        color: #0cb8b6;
+    }
+
+    .form-inline .form-control {
+        width: 100%;
+    }
+
+    .navbar-collapse {
+        text-align: center;
+    }
+
+    #banner .banner_slider .slider .slider_content h1 {
+        font-size: 50px;
+    }
+
+    #banner .banner_slider .slider .slider_content a {
+        margin-top: 40px !important;
+    }
+
+    #banner .slider_priv span {
+        display: none;
+    }
+
+    #banner .slider_next span {
+        display: none;
+    }
+
+    #banner .banner_slider .slider .slider_content {
+        padding: 90px 0 100px;
+    }
+
+    #about .about_left {
+        padding-bottom: 25px;
+    }
+
+    #we_care .we_care_video {
+        display: none;
+    }
+
+    #testimonial .testimonial_right p {
+        padding-bottom: 20px;
+    }
+
+    #testimonial .patient_content .patient img {
+        padding-bottom: 20px;
+    }
+
+    #doctors {
+        padding: 120px 0 125px;
+    }
+
+    #doctors .doctors_content .doctors_type .doctors_images .overlay_content {
+        bottom: -118px;
+    }
+
+    #doctors .doctors_content .doctors_type .doctors_images .overlay_content .social_icon li a {
+        padding: 7px;
+    }
+
+    #news .blog_items .blog_content {
+        padding-left: 15px;
+        padding-bottom: 29px;
+    }
+
+    #news {
+        padding-bottom: 105px;
+    }
+
+    #news .blog_items {
+        margin-bottom: 25px;
+    }
+
+    #counter {
+        padding-bottom: 15px;
+    }
+
+    #counter .counter_items {
+        padding-bottom: 80px;
+    }
+
+    #counter .counter_items h1 {
+        font-size: 55px;
+    }
+
+    #apoinment form .input_items .form-control {
+        margin-bottom: 20px;
+    }
+
+    #trust {
+        padding-bottom: 60px;
+    }
+
+    #trust .trust_button {
+        float: none;
+        text-align: center;
+    }
+
+    #trust .trust_content {
+        text-align: center;
+    }
+
+    footer.sp {
+        padding-top: 83px;
+    }
+
+    footer .footer_top_items {
+        padding-top: 45px;
+    }
+}
+
+/* small device end */
+
+
+/* medium device start */
+
+@media(min-width:768px) and (max-width:991px) {
+    .main-header .header_top .h_t_content_left .htc_left_items {
+        padding-left: 8px;
+        padding-right: 0;
+    }
+
+    .navbar .navbar-toggler {
+        color: #232323;
+        font-size: 25px;
+        -webkit-transition: all linear .3s;
+        -moz-transition: all linear .3s;
+        -ms-transition: all linear .3s;
+        -o-transition: all linear .3s;
+        transition: all linear .3s;
+    }
+
+    .navbar .navbar-toggler:hover {
+        color: #0cb8b6;
+    }
+
+    .navbar-collapse {
+        text-align: center;
+    }
+    .form-inline .form-control {
+	width: 100%;
+}
+
+
+    .main-header .header_top .h_t_content_left .htc_left_items p {
+        font-size: 11px;
+    }
+
+    #about .about_left {
+        padding-bottom: 25px;
+    }
+
+    #we_care .we_care_video {
+        padding: 0;
+        padding-left: 0;
+        padding-top: 0;
+        padding-bottom: 73px;
+        text-align: center;
+    }
+
+    #we_care .we_care_video a.pulse-button {
+        display: inline-block;
+    }
+
+    #we_care .we_care_content {
+        text-align: center;
+    }
+
+    #videCont {
+        padding-top: 188px;
+    }
+
+    #closer_videopopup {
+        right: 10%;
+        top: 19%;
+    }
+
+    #testimonial .testimonial_right {
+        padding-bottom: 25px;
+    }
+
+    #testimonial .patient_content .patient .testi_content p {
+        padding-bottom: 14px !important;
+    }
+
+    #news {
+        padding-bottom: 90px;
+    }
+
+    #news .blog_items .blog_content h3 {
+        font-size: 20px;
+        padding-top: 41px !important;
+    }
+
+    #news .blog_items .blog_content p.date {
+        padding-bottom: 26px !important;
+    }
+
+    #news .blog_items .blog_content p {
+        padding-bottom: 50px !important;
+    }
+
+    #news .blog_items {
+        margin-bottom: 40px;
+    }
+
+    #apoinment form .input_items .form-control {
+        margin-bottom: 20px;
+    }
+
+    #trust .trust_button {
+        padding-top: 70px;
+    }
+
+    footer {
+        padding-top: 90px !important;
+    }
+
+    footer .footer_top_items {
+        padding-top: 40px;
+    }
+}
+
+/* medium device end */
+
+
+/* large device start */
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    #videCont {
+        padding-top: 188px;
+    }
+
+    #closer_videopopup {
+        right: 10%;
+        top: 19%;
+    }
+    .form-inline .form-control {
+	width: 100%;
+}
+}
+
+/* large device end */
